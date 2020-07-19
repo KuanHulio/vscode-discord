@@ -1,3 +1,8 @@
+# NOTE
+
+This project is deprecated. Discord user tokens are now randomly generated on each client connection, making this repo obsolete. Thank you for all the downloads, it means a lot to me.
+
+
 # VSCode Discord Extension
 
 ![VSCode: Discord Style](VisualStudioCode.png)
